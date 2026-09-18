@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfAppSuper"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Assignment2" Height="450" Width="800">
     <Grid>
         <Label Content="_First Name" HorizontalAlignment="Left" Margin="149,96,0,0" VerticalAlignment="Top" TabIndex="1" Target="{Binding ElementName=FirstBox}"/>
         <Label Content="_Last Name" HorizontalAlignment="Center" Margin="0,96,0,0" VerticalAlignment="Top" TabIndex="3" Target="{Binding ElementName=LastBox}"/>
